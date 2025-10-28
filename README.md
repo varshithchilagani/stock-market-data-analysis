@@ -55,5 +55,4 @@ It allows users to track performance, compare stocks or sectors, and identify pa
 
 **Varshith Chilagani**  
 
-🔗 [LinkedIn](https://linkedin.com/in/varshithchilagani)
 
